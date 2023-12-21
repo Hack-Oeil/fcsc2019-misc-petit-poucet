@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  ssh.cyrhades.com:
+    build: ssh
+  webssh.cyrhades.com:
+    build: webssh
+    ports:
+    - "80:8888"
+  petit-poucet.cyrhades.com:
+    image: anssi/fcsc2019-misc-petit-poucet:latest
+    ports:
+      - "4000:4000"
