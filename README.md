@@ -13,7 +13,7 @@ Origine : [Petit Poucet](https://hackropole.fr/fr/challenges/misc/fcsc2019-misc-
 > http://localhost
 
 #### Tentez 
-> nc petit-poucet.cyrhades.com:4000
+> nc petit-poucet.cyrhades.fr:4000
 
 
 
